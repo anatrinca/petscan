@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479925173040",
+    "project_id": "petscan-zero",
+    "storage_bucket": "petscan-zero.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479925173040:android:ef957469d0d2a19f0626f5",
+        "android_client_info": {
+          "package_name": "com.petscan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKs3qs6RcXA2EDGVJa_dgXBGgeh_Y5-eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479925173040:android:77cda45fdffb61800626f5",
+        "android_client_info": {
+          "package_name": "com.trinca.petscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKs3qs6RcXA2EDGVJa_dgXBGgeh_Y5-eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
