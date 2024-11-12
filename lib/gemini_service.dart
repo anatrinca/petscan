@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiService {
   final String apiUrl =
-      'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyB-XwYgUErGT2Dx-aNX0xFN3tWy8lWwajM';
+      'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=COLOQUE SUA CHAVE DO GEMINI AQUI!';
 
   Future<Map<String, dynamic>> enviarSintomas(
       String sintomas, String imagemBase64) async {
